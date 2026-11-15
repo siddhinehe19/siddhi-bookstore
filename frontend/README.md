@@ -78,13 +78,17 @@ Open the local URL printed by Vite, usually `http://localhost:5173`. Login and r
 
 These screenshots show the main UI flow of the bookstore app:
 
-![Login screen](../screenshorts/Login.png)
+### Login Screen
+<img src="../screenshorts/Login.png" alt="Login screen" width="800" />
 
-![Register screen](../screenshorts/Register.png)
+### Register Screen
+<img src="../screenshorts/Register.png" alt="Register screen" width="800" />
 
-![Catalogue page](../screenshorts/Catalogue.png)
+### Catalogue Page
+<img src="../screenshorts/Catalogue.png" alt="Catalogue page" width="800" />
 
-![Dashboard view](../screenshorts/Dashboard.png)
+### Dashboard View
+<img src="../screenshorts/Dashboard.png" alt="Dashboard view" width="800" />
 
 ## API
 
